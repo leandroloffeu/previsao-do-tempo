@@ -9,7 +9,7 @@ Prova P2
 
 # App de Previsão do Tempo
 
-Um aplicativo móvel simples desenvolvido com React Native e Expo que exibe a previsão do tempo para uma cidade específica utilizando a API pública Open-Meteo. O app possui um design moderno inspirado no Google e inclui gráfico de previsão semanal.
+Um aplicativo móvel simples desenvolvido com React Native e Expo que exibe a previsão do tempo para uma cidade específica utilizando a API pública Open-Meteo. O app possui um design inspirado no Google e inclui gráfico de previsão semanal.
 
 **Não é necessário configurar API Key!** O app utiliza a API pública Open-Meteo, que é completamente gratuita e não requer cadastro ou chave de API.
 
